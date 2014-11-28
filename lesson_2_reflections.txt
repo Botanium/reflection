@@ -5,3 +5,10 @@ keeps track of all the changes that happens to them through time. you will
 create repository so you can put your changes and share it with others if
 needed.
 
+
+
+Second: How is the staging area different from the working directory and
+the repository? What value do you think it offers?
+Answer: staging area is the meduim in which the changes are ready to be 
+committed. It allows you to check your changes before committing, you can
+reset any changes that you want to the working directory.
