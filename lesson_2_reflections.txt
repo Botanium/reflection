@@ -1,0 +1,7 @@
+First: What happens when you initialize a repository? Why do you need
+ to do it?
+Answer: It will create a container for your files in that directory and
+keeps track of all the changes that happens to them through time. you will
+create repository so you can put your changes and share it with others if
+needed.
+

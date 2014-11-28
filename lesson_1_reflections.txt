@@ -1,0 +1,57 @@
+First: How did viewing a diff between two versions of a file
+help you see the bug that was introduced?
+Answer: I think the diff command is good only for short file comparission.
+anything long than 10 to 20 lines, becomes really tedious.
+
+
+
+Second: How could having easy access to the entire history of a file make you
+a more efficient programmer in the long term?
+Answer: It will make debugging process easier. You can go back to any old
+version after you make any changes. This will eleminate any error
+to go to the other versions.
+
+
+Third: What do you think are the pros and cons of manually choosing when to
+create a commit, like you do in Git, vs having versions automatically
+saved, like Google docs does?
+Answer: the good points of git are; you can chose when to commit according
+to your personal plan. this allows you to have a logical commit for your
+project. The bad side about it, is that you might end up having too many
+commits which you don't need them and it will be hard to track all of
+these commits and different versions. Also if you lose power for face a
+crash in your system then you will lose all the work after the last commit.
+ On the other hand google drive will make sure to keep a copy for you in every
+ small change you make, but you will end up having so many versions.
+
+
+ Fourth: Why do you think some version control systems, like Git, allow saving
+ multiple files in one commit, while others, like Google Docs, treat each
+ file separately?
+ Answer: Git is dealing with your project in your repository. so any change
+ to the project in a single file will effect the project as whole, therefore
+ you will have changes over different files that you need to keep track of
+ and know the state of each file in every single commit.
+
+
+ Fifth: How can you use the commands git log and git diff to view the history
+of files?
+Answer: Once you created your repository or downloaded a repository, you
+have to enter that directory then you can run "Git log". For using
+"Git diff" you must put the first commit ID followed by second commit ID.
+
+
+
+Sixth: How might using version control make you more confident to make changes
+that could breaak something?
+Answer: It is obvious that you will make mistakes in your code, but using
+Git makes more controllable by going back and forth between the version.
+this will allow you to change anything with the fear that you might lose the
+right version of your code.
+
+
+
+Seventh: Now that you have your workspace set up, what do you want to 
+try using Git for?
+Answer: I would be using this for my applications. I am thinking to use it
+for backing up my personal file even. 
