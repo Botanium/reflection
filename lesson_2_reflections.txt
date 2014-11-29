@@ -12,3 +12,10 @@ the repository? What value do you think it offers?
 Answer: staging area is the meduim in which the changes are ready to be 
 committed. It allows you to check your changes before committing, you can
 reset any changes that you want to the working directory.
+
+
+
+Third:How can you use the staging area to make sure you have one commit 
+per logical change?
+Answer: For every change I add to the staging area, I can make one commit.
+This way I know when to add changes and commit them per my logical progression.
