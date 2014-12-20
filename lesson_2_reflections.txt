@@ -19,3 +19,21 @@ Third:How can you use the staging area to make sure you have one commit
 per logical change?
 Answer: For every change I add to the staging area, I can make one commit.
 This way I know when to add changes and commit them per my logical progression.
+
+
+
+Fourth:What are some situations when branches would be helpful in keeping
+your history organized? How would branches help?
+Answer: Branches are good when you want to introduce a totally new version
+of your existing code without risking your main branch.
+
+
+
+Fifth: How do the digrams help you visualize the branch structure?
+Answer: This digram visualization helps you to see with commit is on
+which branch. this will create a clear picture on how to follow
+these commits for their inicial commit.
+
+
+
+
