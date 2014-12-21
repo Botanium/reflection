@@ -1,1 +1,3 @@
 When would you want to use a remote repository rather than keeping all your work local?
+Answer: When I want to share my work with the community and get help from other collaborators. Also if I want 
+other devleopers or companies to see my work, then I will publish.
