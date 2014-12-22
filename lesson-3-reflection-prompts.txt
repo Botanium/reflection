@@ -1,3 +1,22 @@
 When would you want to use a remote repository rather than keeping all your work local?
 Answer: When I want to share my work with the community and get help from other collaborators. Also if I want 
 other devleopers or companies to see my work, then I will publish.
+
+
+
+Why might you want to always pull changes manually rather than having
+Git automatically stay up-to-date with your repository?
+Answer:Because you want to decide when to pull the changes. Maybes sometimes
+you are not sure which commit or changes to pull from which branch. Having
+the ability to decide when to pull gives you more advantage to prevent 
+conflict between code versions. 
+
+
+
+Describe the differences between forks, clones, and branches. When would
+you use one instead of another?
+Answer: Fork is similar to clones but it happens only on the Github servers
+while clone a Git command used for clonning a repo from Github to your
+local machine. Branches can be created on your local machine or on your
+Github account. You can make new branches from your master branch and
+do side development. 
