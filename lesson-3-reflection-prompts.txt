@@ -20,3 +20,28 @@ while clone a Git command used for clonning a repo from Github to your
 local machine. Branches can be created on your local machine or on your
 Github account. You can make new branches from your master branch and
 do side development. 
+
+
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+Answer: 
+
+
+
+How would you collaborate without using Git or GitHub? What would be
+easier, and what would be harder?
+Answer: I would just give a copy of my project using email with a 
+text file indicating changes and the status of my work and also 
+providing comments within my codes. It is really hard to keep track of
+our changes and sending all the project suing email. I don't see anything
+easy in this process.
+
+
+
+When would you want to make changes in a sperate branch rather directly
+in master? What benefits does each approach have?
+Answer: When you want to fix a bug, but you are afraid of the sideaffects
+of that bug. Also if you want to work on a new feature you can change that 
+branch. this will give you these advantages. Ability to proof read 
+and check before merging. 
